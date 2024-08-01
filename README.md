@@ -14,6 +14,13 @@ Status](https://codecov.io/gh/hrbrmstr/hrbraddins/branch/master/graph/badge.svg)
 Version](https://img.shields.io/badge/R%3E%3D-3.2.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+# AC addins
+
+## This is a fork of [hrbrmstr/hrbraddins]([url](https://github.com/hrbrmstr/hrbraddins)). 
+
+The objective of this repo is to collect nice Rstudio addins and keep them together in one single place. 
+
+
 # hrbraddins
 
 Moar Addins for RStudio
